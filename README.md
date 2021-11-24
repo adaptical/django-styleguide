@@ -52,6 +52,7 @@ Django styleguide that we use in [HackSoft](https://hacksoft.io).
   * [More ideas](#more-ideas)
 - [Testing](#testing-2)
   * [Naming conventions](#naming-conventions)
+  * [Factories](#factories)
 - [Celery](#celery)
   * [Structure](#structure)
     + [Configuration](#configuration)
@@ -2042,6 +2043,10 @@ If we are to split the `utils.py` module into submodules, the same will happen f
 * `project_name/common/tests/utils/test_files.py`
 
 We try to match the structure of our modules with the structure of their respective tests.
+
+### Factories
+
+TODO: Add reference to blog posts and the Styleguide Example
 
 ## Celery
 
