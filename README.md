@@ -1,9 +1,5 @@
 # Django Styleguide
 
-> 👀 **Need help with your Django project?** [HackSoft is here for you](https://www.hacksoft.io/solutions/django?utm_source=django-styleguide&utm_medium=web&utm_campaign=Django-Campaign). Reach out at `consulting@hacksoft.io`
-
-![Django Styleguide](logo.png)
-
 **Table of contents:**
 
 <!-- toc -->
