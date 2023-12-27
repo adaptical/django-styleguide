@@ -4,9 +4,6 @@
 
 <!-- toc -->
 
-- [How to ask a question or propose something?](#how-to-ask-a-question-or-propose-something)
-- [What is this?](#what-is-this)
-- [How to use it?](#how-to-use-it)
 - [Overview](#overview)
 - [Why not?](#why-not)
 - [Cookie Cutter](#cookie-cutter)
@@ -70,52 +67,6 @@
 - [Inspiration](#inspiration)
 
 <!-- tocstop -->
-
-## How to ask a question or propose something?
-
-Few points to navigate yourself:
-
-1. If you've read the Django Styleguide & you have questions or suggestions, **the simplest thing you can is to open an issue.** We will respond.
-1. Even if you have a question that you are not sure if it's related to the Django Styleguide - **just open an issue anyway.** We will respond.
-1. **If you want to see a code example**, make sure to head to the [Django Styleguide Example](https://github.com/HackSoftware/Django-Styleguide-Example) repository. We treat this as a "Django test project", combining best practices & also [examples from our blog](https://www.hacksoft.io/blog).
-
-That's about it ✨
-
-## What is this?
-
-Hello 👋
-
-This is the Django Styleguide, created by us, the folks at [HackSoft](https://hacksoft.io).
-
-**Few important notes about it:**
-
-1. It's derived from many years of experience & many Django projects, both big & small.
-1. It's pragmatic. All things mentioned here are things tested in production.
-1. It's opinionated. This is how we build applications with Django.
-1. It's not the only way. There are other ways of building & structuring Django projects that can do the job for you.
-1. We have a [`Django-Styleguide-Example`](https://github.com/HackSoftware/Styleguide-Example) to show most of the styleguide in an actual project.
-
-**You can watch Radoslav Georgiev's [Django structure for scale and longevity](https://www.youtube.com/watch?v=yG3ZdxBb1oo) for the philosophy behind the styleguide:**
-
-[![Django structure for scale and longevity by Radoslav Georgiev](https://img.youtube.com/vi/yG3ZdxBb1oo/0.jpg)](https://www.youtube.com/watch?v=yG3ZdxBb1oo)
-
-**You can also watch Radoslav Georgiev & Ivaylo Bachvarov's [discussion on HackCast, around the Django Styleguide](https://www.youtube.com/watch?v=9VfRaPECbpY):**
-
-[![HackCast S02E08 - Django Community & Django Styleguide](https://img.youtube.com/vi/9VfRaPECbpY/0.jpg)](https://www.youtube.com/watch?v=9VfRaPECbpY)
-
-## How to use it?
-
-When it comes to the Django Styleguide, **there are 3 general ways of using it:**
-
-1. Strictly follow everything written here.
-2. Cherry-pick whatever makes sense to you, based on your specific context.
-3. Don't follow anything written here.
-
-**We recommend point number 2:**
-
-- Read the styleguide.
-- Decide what's going to work best for you.
-- Adapt for your specific case.
 
 ## Overview
 
